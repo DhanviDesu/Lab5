@@ -9,4 +9,4 @@ https://dhanvidesu.github.io/Lab5/
 
 ## Part 2:
 
-https://github.com/DhanviDesu/github-actions-for-ci/issues/4
+https://github.com/DhanviDesu/github-actions-for-ci/issues/7
